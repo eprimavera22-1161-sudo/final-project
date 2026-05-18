@@ -52,6 +52,7 @@ Standard formatting techniques were applied to maintain consistency throughout t
 | Total Product Sales by Category (Horizontal Bar Chart) | product_category, sales_amount |
 | Count of Product ID by City (Pie Chart) | city, product_id |
 | Total Sales by Day (Line Chart) | transaction_date, sales_amount |
+<img width="904" height="508" alt="image" src="https://github.com/user-attachments/assets/97de63ca-13ed-466c-aa8a-ff3305fa7c9a" />
 
 ---
 
