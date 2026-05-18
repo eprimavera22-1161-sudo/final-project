@@ -47,11 +47,11 @@ Standard formatting techniques were applied to maintain consistency throughout t
 
 | Visualization | Columns Used |
 |---|---|
-| KPI Cards (Total Sales, Total Customers, Total Orders) | sales_amount, customer_id, order_id |
-| Total Sales by Payment Method (Horizontal Bar Chart) | payment_method, sales_amount |
-| Total Product Sales by Category (Horizontal Bar Chart) | product_category, sales_amount |
+| KPI Cards (Total Sales, Total Customers, Total Orders) | total_sales, customer_id, order_id |
+| Total Sales by Payment Method (Horizontal Bar Chart) | payment_method, total_sales |
+| Total Product Sales by Category (Horizontal Bar Chart) | product_category, total_sales |
 | Count of Product ID by City (Pie Chart) | city, product_id |
-| Total Sales by Day (Line Chart) | transaction_date, sales_amount |
+| Total Sales by Day (Line Chart) | transaction_date, total_sales |
 <img width="904" height="508" alt="image" src="https://github.com/user-attachments/assets/97de63ca-13ed-466c-aa8a-ff3305fa7c9a" />
 
 ---
